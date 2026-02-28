@@ -1,7 +1,7 @@
-## Hi there 👋
+
 
 <!--
-**215joker/215joker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**215joker/215joker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 # 💫 About Me:
 Programmer<br>Ethical Hacker<br>Cybersecurity analyst <br>Mobile App Developer<br>Web App Developer<br>ATM Engineer <br>
